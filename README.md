@@ -1,1 +1,1 @@
-# EDA Project During Data Science Internship 2025
+# EDA Project - Data Science Internship 2025
