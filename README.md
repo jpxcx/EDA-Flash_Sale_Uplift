@@ -1,1 +1,1 @@
-# Flash_Sale_Uplift
+# EDA Project During Data Science Internship 2025
