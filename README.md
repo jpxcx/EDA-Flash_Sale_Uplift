@@ -1,12 +1,12 @@
 # EDA Project 
-**Project Overview**
+## Project Overview
 
 This project analyzes the performance of a flash sale campaign by performing exploratory data analysis (EDA) and measuring uplift in buyer activity.
 The goal was to understand buyer behavior during flash sales, identify key drivers of uplift, and generate insights for optimizing future campaigns.
 
 This analysis was conducted as part of my Summer 2025 Data Science Internship at Shopee and has been refactored for demonstration purposes.
 
-**Methods**
+## Methods
 1. Data Cleaning & Preprocessing
 - Removed missing values and outliers
 - Normalized transaction timestamps and categorical variables
@@ -26,7 +26,7 @@ This analysis was conducted as part of my Summer 2025 Data Science Internship at
 - Created visual summaries (Gini curves, trend plots) for campaign performance
 - Highlighted shifts in buyer activity distribution before and after the flash sale
 
-**Key Results**
+## Key Results
 - Identified significant uplift in conversion rate and average spend per buyer during the flash sale.
 - Detected heterogeneous treatment effects across buyer segments—heavy buyers showed limited uplift compared to light buyers.
 - Visualizations revealed time-based spikes in purchasing behavior (sale entry + closing hours).
