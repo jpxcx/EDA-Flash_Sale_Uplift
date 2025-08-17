@@ -1,5 +1,6 @@
 # EDA Project 
 **Project Overview**
+
 This project analyzes the performance of a flash sale campaign by performing exploratory data analysis (EDA) and measuring uplift in buyer activity.
 The goal was to understand buyer behavior during flash sales, identify key drivers of uplift, and generate insights for optimizing future campaigns.
 
